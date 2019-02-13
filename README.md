@@ -24,7 +24,7 @@ Html5, CSS3, python, Django, PSQL
 
   3. Checkout to `develop` branch:
 
-    `git checkout develop-api-v2`
+    `git checkout develop`
 
   4. Create a virtual environment to allow you to manage separate package installations for different projects:
 
@@ -53,7 +53,7 @@ Html5, CSS3, python, Django, PSQL
 
     `python manage.py createsuperuser`
 
-  11. Start server and head over to admin url on browser                `localhost:8000/admin`:
+  11. Start server and head over to admin url on browser `localhost:8000/admin`:
 
     `python manage.py runserver`
 
